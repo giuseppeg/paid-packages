@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "paid-packages",
+  "version": "0.0.1",
+  "description": "Sustainable OSS. Allows you to make a living out of your packages.",
+  "main": "index.js",
+  "scripts": {
+    "install": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "open",
+    "source",
+    "donation",
+    "payment"
+  ],
+  "author": "The O Company",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
